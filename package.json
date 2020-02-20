@@ -1,0 +1,17 @@
+{
+  "name": "billing",
+  "version": "1.0.0",
+  "description": "Salon Billing Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Abinash Behera",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^7.1.10"
+  },
+  "dependencies": {
+    "electron-fetch": "^1.4.0"
+  }
+}
