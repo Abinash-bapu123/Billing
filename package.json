@@ -9,7 +9,7 @@
   "author": "Abinash Behera",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^7.1.10"
+    "electron": "^15.5.5"
   },
   "dependencies": {
     "electron-fetch": "^1.4.0"
